@@ -59,6 +59,7 @@ Available instantly on Itch.io:
 
 ## 📫 Contact  
 📧 **OleksandrTokarevDev@gmail.com**  
+🔗 **LinkedIn:** https://www.linkedin.com/in/oleksandrtokarev/  
 🎮 Itch.io: https://sd7games.itch.io  
 💼 GitHub: https://github.com/SD7games  
 
