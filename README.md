@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Oleksandr Tokarev  
 ### Unity / C# Game Developer (Finland 🇫🇮)
 
-Junior Unity / C# Developer focused on **gameplay logic** and **clean, modular architecture**.  
-I build small games and prototypes in Unity 6: implementing mechanics, simple AI behaviour,  
-saving systems, progression, UI flows and basic visual effects.  
-I learn fast through practice, finish features to a playable state and continually grow through shipped results.
+Junior Unity / C# Developer focused on **gameplay programming** and **clean, modular architecture**.  
+I build gameplay systems and prototype full features in Unity 6: mechanics, progression, UI flows,  
+saving systems and simple AI behaviour. I learn fast through practice, finish features to a playable state  
+and continuously grow through shipped results.
 
 ---
 
@@ -14,9 +14,9 @@ Available on Itch.io:
 
 | Project | Platform | Description |
 |--------|----------|-------------|
-| **Emoji Battle** | Android (in dev) | Turn-based mobile game with AI levels, emoji unlock progression, JSON saving and UI pop-ups. |
+| **Emoji Battle** *(Main Project)* | Android (in dev) | Turn-based mobile game with AI levels, emoji unlock progression, JSON saving, UI pop-ups and polished gameplay loop. |
 | **Sharp Shooter** | WebGL | FPS prototype: ScriptableObject weapons, ADS, sprint, recoil, NavMesh AI, win/lose flow. |
-| **Royal Run** | WebGL | Endless runner with procedural obstacles, collectibles, speed control and short session loop. |
+| **Royal Run** | WebGL | Endless runner with procedural obstacles, collectibles, speed scaling and short-session gameplay. |
 | **Rocket Boost** | WebGL | Physics-based rocket controller: thrust, torque, collisions and restart cycle. |
 | **Galaxy Strike** | PC | Timeline-driven cinematic demo with camera transitions and dialogue portraits. |
 
@@ -28,19 +28,19 @@ Available on Itch.io:
 - Gameplay programming (mechanics, interactions, win/lose flow)  
 - UI Toolkit / UGUI, popup systems  
 - Turn-based logic, simple AI behaviour  
-- Progression, unlocks, game loop structure  
+- Progression systems, unlocks, game loop structure  
 - Animator, Timeline, Cinemachine  
-- Particle System & basic Shader Graph VFX  
+- Particle System & Shader Graph (simple VFX)  
 - Mobile & WebGL builds  
 - Object Pooling  
 
 ### 🔹 C# & Architecture
-- Clean, modular code  
+- Clean, modular gameplay code  
 - OOP, Clean Code, basic SOLID  
 - Events / delegates, ScriptableObjects  
-- Coroutines, async basics  
+- Coroutines and basic async patterns  
 - JSON & PlayerPrefs saving  
-- Interface-driven design, small patterns  
+- Interface-driven design, small architecture patterns  
 
 ### 🔹 Tools
 - Git / GitHub  
@@ -51,10 +51,10 @@ Available on Itch.io:
 
 ## 📦 Featured Repositories
 - **Emoji Battle** — turn-based mobile game with progression, saving, UI, VFX  
-- **Sharp Shooter** — FPS prototype with weapon system & AI behaviour  
+- **Sharp Shooter** — FPS prototype with weapon system & basic AI behaviour  
 - **Royal Run** — endless runner prototype  
 - **Galaxy Strike** — Timeline-driven cinematic project  
-- **Rocket Boost** — physics mini-prototype  
+- **Rocket Boost** — physics-based prototype  
 
 👉 Browse all repositories: https://github.com/SD7games?tab=repositories
 
@@ -69,4 +69,4 @@ Available on Itch.io:
 
 ---
 
-⭐ *Self-driven, disciplined, always learning through real projects.*  
+⭐ *Disciplined, self-driven, and always improving through real Unity projects.*  
