@@ -1,6 +1,6 @@
 ### Unity / C# Game Developer (Finland 🇫🇮)
 
-Focused on **gameplay programming** and **clean, modular architecture**.  
+Focused on **gameplay programming** and **modular architecture**.  
 In my main project (**Emoji Battle**) I apply **MVC-style separation** and the  
 **Single Responsibility Principle** to keep gameplay logic, UI and infrastructure clearly separated.
 
@@ -17,7 +17,7 @@ Available on Itch.io:
 
 | Project | Platform | Description |
 |--------|----------|-------------|
-| **Emoji Battle** *(Main Project)* | Android (in dev) | Turn-based mobile game **fully refactored** to an **MVC-style architecture** with clear separation between domain logic and UI, AI difficulty via Strategy pattern, emoji unlock progression, JSON saving and UI popups. |
+| **Emoji Battle** *(Main Project)* | Android (in dev) | Turn-based mobile game **fully refactored** to an **MVC-style architecture** with clear separation between domain logic and UI, AI difficulty via `Strategy` pattern, emoji unlock progression, JSON saving and UI popups. |
 | **Sharp Shooter** | WebGL | FPS prototype with ScriptableObject-based weapons, ADS, sprint, recoil, NavMesh AI and win/lose flow. |
 | **Royal Run** | WebGL | Endless runner with procedural obstacles, collectibles, speed scaling and short-session gameplay loop. |
 | **Rocket Boost** | WebGL | Physics-based rocket controller: thrust, torque, collisions and restart cycle. |
@@ -81,4 +81,4 @@ https://github.com/SD7games?tab=repositories
 
 ---
 
-⭐ *Self-driven Unity developer focused on clean architecture, maintainable gameplay systems and shipped results.*
+⭐ **Self-driven Unity developer focused on maintainable gameplay systems and shipped results.**
