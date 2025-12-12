@@ -2,7 +2,8 @@
 
 Focused on **gameplay programming** and **clean, modular architecture**.  
 I design and implement gameplay systems in Unity 6 with emphasis on **MVC-style separation**,  
-**Single Responsibility Principle**, and maintainable code structure.
+**Single Responsibility Principle**, and maintainable code structure — applied primarily in my
+**main and recent projects**.
 
 I build complete features end-to-end: gameplay mechanics, progression systems,  
 UI flows, saving logic and basic AI behaviour — from idea to a playable, testable state.  
@@ -17,7 +18,7 @@ Available on Itch.io:
 
 | Project | Platform | Description |
 |--------|----------|-------------|
-| **Emoji Battle** *(Main Project)* | Android (in dev) | Turn-based mobile game built with **MVC-style architecture**: AI difficulty via Strategy pattern, emoji unlock progression, JSON saving, UI popups and clean separation between gameplay logic and UI. |
+| **Emoji Battle** *(Main Project)* | Android (in dev) | Turn-based mobile game **fully refactored** to an **MVC-style architecture** with clear separation between domain logic and UI, AI difficulty via Strategy pattern, emoji unlock progression, JSON saving and UI popups. |
 | **Sharp Shooter** | WebGL | FPS prototype with ScriptableObject-based weapons, ADS, sprint, recoil, NavMesh AI and win/lose flow. |
 | **Royal Run** | WebGL | Endless runner with procedural obstacles, collectibles, speed scaling and short-session gameplay loop. |
 | **Rocket Boost** | WebGL | Physics-based rocket controller: thrust, torque, collisions and restart cycle. |
@@ -39,7 +40,7 @@ Available on Itch.io:
 
 ### 🔹 C# & Architecture
 - **Clean, modular gameplay code**  
-- **MVC-style separation (Model / View / Controller)**  
+- **MVC-style separation (Model / View / Controller) in recent and main projects**  
 - Single Responsibility Principle (SRP)  
 - OOP, Clean Code, basic SOLID principles  
 - Interface-driven design  
@@ -61,6 +62,11 @@ Available on Itch.io:
 - **Royal Run** — endless runner prototype  
 - **Galaxy Strike** — Timeline-driven cinematic project  
 - **Rocket Boost** — physics-based prototype  
+
+> **Note:**  
+> Earlier projects focus on learning core Unity and C# concepts and rapid prototyping.  
+> **Emoji Battle** represents my current approach to clean architecture, MVC-style separation
+> and SRP-focused gameplay code.
 
 👉 Browse all repositories:  
 https://github.com/SD7games?tab=repositories
