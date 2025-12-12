@@ -6,7 +6,8 @@ In my main project (**Emoji Battle**) I apply **MVC-style separation** and the
 
 I build complete features end-to-end: gameplay mechanics, progression systems,  
 UI flows, saving logic and basic AI behaviour — from idea to a playable, testable state.  
-I learn fast through practice, refactor actively, and grow through **finished projects**, not demos.
+I learn fast through practice, refactor actively, and grow through **complete, playable projects**, not isolated demos or code snippets.
+
 
 ---
 
